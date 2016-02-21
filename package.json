@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "underscore": "1.8.3"
+  },
+  "name": "Prueba",
+  "version": "0.0.0",
+  "description": "prueba de nodejs",
+  "main": "index.js",
+  "devDependencies": {},
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "mongodb"
+  ],
+  "author": "Ariel Alvarado",
+  "license": "ISC"
+}
